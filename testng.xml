@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="SampleArtidactID.src.test.java.Test1.amazon"/>
+      <class name="Test1.amazon"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
